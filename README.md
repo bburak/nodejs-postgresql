@@ -12,3 +12,10 @@ description: "This sample demonstrates a sample database connection using postgr
 
 # nodejs-postgresql-connection-helloworld
 Creating a connection between Nodejs and PostgreSQL.
+
+## Requirements
+
+* Node
+* node-postgres
+* Express
+* PostgreSQL
